@@ -8,24 +8,24 @@ This week, we covered the importance of a great technical portfolio to help you 
 
 Spend time looking at other developer’s portfolios. Submit the links to three portfolios you will use for inspiration.
 
-1.
-2.
-3.
+1.https://814613116631bb12.demo.carrd.co/
+2.https://3f03c8979d6b6322.demo.carrd.co/
+3.https://0a2801ab9fe7f463.demo.carrd.co/
 
 ### GitHub
 
 GitHub is an important asset for all developers as it serves as storage for your code as well as a portfolio.
 
-- [ ] add a profile picture to your GitHub account. A GitHub profile picture does not have to be an actual picture of your face but it should represent your brand as a developer.
+- [✅] add a profile picture to your GitHub account. A GitHub profile picture does not have to be an actual picture of your face but it should represent your brand as a developer.
 
 
 ### LinkedIn
 
-Your LinkedIn url:
+Your LinkedIn url:www.linkedin.com/in/jonathan-raya
 
 Check the boxes below to certify that you have completed the following items on your LinkedIn profile:
 
-- [ ] add additional previous jobs (up to 10 years as appropriate) in the Experience section. Add skills and descriptions to your jobs that highlight transferable skills.
-- [ ] create a new post about your first two weeks at LEARN. Topics can include (but are not limited to) JavaScript, git and GitHub, pair programming, or communication skills.
-- [ ] add at least ten more professional connections. Connections can include your cohort mates, LEARN alumni, LEARN staff, following companies of interest, friends and family, and former coworkers.
-- [ ] react (like, celebrate, comment, etc) to ten posts from your existing connections.
+- [✅] add additional previous jobs (up to 10 years as appropriate) in the Experience section. Add skills and descriptions to your jobs that highlight transferable skills.
+- [✅] create a new post about your first two weeks at LEARN. Topics can include (but are not limited to) JavaScript, git and GitHub, pair programming, or communication skills.
+- [✅] add at least ten more professional connections. Connections can include your cohort mates, LEARN alumni, LEARN staff, following companies of interest, friends and family, and former coworkers.
+- [✅] react (like, celebrate, comment, etc) to ten posts from your existing connections.
